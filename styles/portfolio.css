@@ -1,6 +1,6 @@
 :root {
-  --branding-color: #6b62ff;
-  --secondary-color: #f9f7fd;
+  --branding-color: #6c63ff;
+  --secondary-color: #f9f7fe;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -73,7 +73,7 @@ p {
   padding: 15px 30px;
 }
 
-.project-description {
+.project-desciption {
   padding: 120px 60px;
 }
 
